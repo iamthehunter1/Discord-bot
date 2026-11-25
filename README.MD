@@ -1,7 +1,8 @@
 # Discord Bot
 
-This is gonna be a simple discord bot in python with music, moderation, etc
+this is gonna be a simple discord bot used for nuking servers 
 
-# Dependencies
+# DISCLAIMER
 
-> pip install discord.py pip install python-dotenv
+This project was purely made for fun and educational purposes. I am not responsible for how you use it or any consequences that may result from your actions!. Use it at your own risk!
+
